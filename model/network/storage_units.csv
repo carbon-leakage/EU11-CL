@@ -1,0 +1,23 @@
+name,bus,carrier,p_nom_extendable,p_nom,capital_cost,max_hours,efficiency_store,efficiency_dispatch
+Scandinavia hydro,Scandinavia,hydro,False,50100.0,0.0,1718.75,0.0,1.0
+Scandinavia battery,Scandinavia,battery,True,0.0,120389.0,8.0,0.9,0.9
+Britain hydro,Britain,hydro,False,500.0,0.0,0.0,0.0,1.0
+Britain battery,Britain,battery,True,0.0,120389.0,8.0,0.9,0.9
+Benelux hydro,Benelux,hydro,False,1400.0,0.0,0.0,0.0,1.0
+Benelux battery,Benelux,battery,True,0.0,120389.0,8.0,0.9,0.9
+France hydro,France,hydro,False,25400.0,0.0,385.8267716535434,0.0,1.0
+France battery,France,battery,True,0.0,120389.0,8.0,0.9,0.9
+Iberia hydro,Iberia,hydro,False,24300.0,0.0,456.1403508771928,0.0,1.0
+Iberia battery,Iberia,battery,True,0.0,120389.0,8.0,0.9,0.9
+Italy hydro,Italy,hydro,False,21900.0,0.0,360.730593607306,0.0,1.0
+Italy battery,Italy,battery,True,0.0,120389.0,8.0,0.9,0.9
+Alps hydro,Alps,hydro,False,13100.0,0.0,0.0,0.0,1.0
+Alps battery,Alps,battery,True,0.0,120389.0,8.0,0.9,0.9
+Germany hydro,Germany,hydro,False,11300.0,0.0,26.548672566371675,0.0,1.0
+Germany battery,Germany,battery,True,0.0,120389.0,8.0,0.9,0.9
+Baltic hydro,Baltic,hydro,False,4900.0,0.0,1125.0,0.0,1.0
+Baltic battery,Baltic,battery,True,0.0,120389.0,8.0,0.9,0.9
+Walachei hydro,Walachei,hydro,False,14400.0,0.0,880.0000000000003,0.0,1.0
+Walachei battery,Walachei,battery,True,0.0,120389.0,8.0,0.9,0.9
+Balkan hydro,Balkan,hydro,False,3400.0,0.0,0.0,0.0,1.0
+Balkan battery,Balkan,battery,True,0.0,120389.0,8.0,0.9,0.9

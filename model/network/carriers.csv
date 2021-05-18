@@ -1,0 +1,8 @@
+name,marginal,capital,co2_emissions,short_name
+coal,25.0,145000.0,1.0,C
+hydro,0.0,0.0,0.0,H
+OCGT,58.385,49400.0,0.635,G
+wind,0.01,127450.0,0.0,W
+solarPV,0.01,61550.0,0.0,S
+perpetuum,1000.0,1000000.0,0.0,P
+battery,0.0,120389.0,0.0,BT
